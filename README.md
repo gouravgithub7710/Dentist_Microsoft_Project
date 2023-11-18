@@ -16,7 +16,8 @@ Dentacarehub Website is designed to offer a user-friendly experience in explorin
 5. **Blog:**
 6. **Prices:**
 7. **Team:**
-![screencapture-calm-stone-01b745500-4-azurestaticapps-net-2023-11-18-22_43_55](https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/fbbf8dc8-8b2e-491a-93e0-fb0b2c071bb0)
+
+![screencapture-calm-stone-01b745500-4-azurestaticapps-net-2023-11-18-22_49_39](https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/2a38fcec-7b53-4357-8caa-c6330dc30e69)
 
 
 ## Usage
