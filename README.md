@@ -18,6 +18,10 @@ Dentacarehub Website is designed to offer a user-friendly experience in explorin
 7. **Team:**
 ## Azure Technology used:-
 1 Azure Static Web app ,2 Health Bot
+Led integration of 2 Azure services and 1 AI service, Research and implementing
+cutting-edge AI for enhanced functionality. Delivered a comprehensive project,
+demonstrating technical prowess and innovative problem-solving while gaining insights
+into industry best practices and emerging Microsoft technologies.
 ![screencapture-calm-stone-01b745500-4-azurestaticapps-net-2023-11-18-22_49_39](https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/2a38fcec-7b53-4357-8caa-c6330dc30e69)
 
 
