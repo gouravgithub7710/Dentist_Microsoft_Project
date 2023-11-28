@@ -24,6 +24,8 @@ demonstrating technical prowess and innovative problem-solving while gaining ins
 into industry best practices and emerging Microsoft technologies.
 ![screencapture-calm-stone-01b745500-4-azurestaticapps-net-2023-11-18-22_49_39](https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/2a38fcec-7b53-4357-8caa-c6330dc30e69)
 
+- Developed a website (HTML, CSS, JavaScript) with an integrated AI Health Bot for
+enhanced user interaction, deployed on Azure for optimal performance.
 
 ## Usage
 
