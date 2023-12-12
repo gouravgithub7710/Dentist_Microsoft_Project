@@ -1,6 +1,6 @@
 # Dentacarehub Website
 ## Future Ready Talent Microsoft project
-"DentaCareHub" Website is designed to offer a user-friendly experience in exploring various aspects of dental care. Whether you're looking for information about our team, services, or seeking advice from our health bot, Dentacarehub has you covered.
+"DentaCareHub makes it easy to find a dentist. It has all the info about dentists, is easy to use, and helps you quickly set up appointments for better dental care."
 ## Project Url :- https://calm-stone-01b745500.4.azurestaticapps.net
 ## Project Video:- https://youtu.be/NjbnG6KKYPo?feature=shared
 
