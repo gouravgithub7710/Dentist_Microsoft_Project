@@ -41,9 +41,9 @@ Use Case: You can integrate the HealthBot into your project to handle health-rel
 - Developed a website (HTML, CSS, JavaScript) with an integrated AI Health Bot for
 enhanced user interaction, deployed on Azure for optimal performance.
 
-*HTML
-*CSS
-*JavaScript
+*HTML**
+*CSS**
+*JavaScript**
 
 ## Usage
 
