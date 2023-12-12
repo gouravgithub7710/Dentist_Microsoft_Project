@@ -51,6 +51,3 @@ To run the project locally:
 
 If you'd like to contribute to the Dentacarehub Website, please follow the [Contributing Guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is under the free code.
