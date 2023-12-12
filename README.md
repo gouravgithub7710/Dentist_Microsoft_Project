@@ -2,7 +2,7 @@
 ## Future Ready Talent Microsoft project
 "DentaCareHub makes it easy to find a dentist. It has all the info about dentists, is easy to use, and helps you quickly set up appointments for better dental care."
 ## Project Url :- https://calm-stone-01b745500.4.azurestaticapps.net
-## Project Video:-https://drive.google.com/file/d/13-8QjYu_7fDVxIM_2UGqGc4fbIfu2avM/view?usp=drive_link)
+## Project Video:-https://drive.google.com/file/d/13-8QjYu_7fDVxIM_2UGqGc4fbIfu2avM/view?usp=drive_link
 
 ## Introduction
 
