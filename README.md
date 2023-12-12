@@ -16,7 +16,7 @@ Dentacarehub Website is designed to offer a user-friendly experience in explorin
 5. **Blog:**
 6. **Prices:**
 7. **Team:**
-## Azure Technology used:-
+# Azure Technology used:-
 ## 1: Azure Static Web Apps:
 
 Purpose: Hosts static web content, such as HTML, CSS, and JavaScript.
@@ -33,7 +33,8 @@ Use Case: You might use Azure Storage to store and retrieve assets like images, 
 Purpose: A health-focused bot that uses artificial intelligence to provide health-related information and assistance.
 
 Use Case: You can integrate the HealthBot into your project to handle health-related queries or provide personalized health information. For example, the bot could assist users with health-related questions, provide medication reminders, or offer general health advice.
------------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![screencapture-calm-stone-01b745500-4-azurestaticapps-net-2023-11-18-22_49_39](https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/2a38fcec-7b53-4357-8caa-c6330dc30e69)
 
 - Developed a website (HTML, CSS, JavaScript) with an integrated AI Health Bot for
