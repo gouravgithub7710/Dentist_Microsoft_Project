@@ -30,14 +30,14 @@ Use Case: You can integrate the HealthBot into your project to handle health-rel
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Key Sections
 
-1. **Home:<img width="952" alt="Screenshot 2023-11-18 224311" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/d4eab004-3f54-4e47-8727-432be651f765">
-**
+1. **Home:**
+<img width="952" alt="Screenshot 2023-11-18 224311" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/d4eab004-3f54-4e47-8727-432be651f765">
+
 2. **About:**
 <img width="955" alt="Screenshot 2023-11-18 224343" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/985aa0bc-73b4-43be-95f5-e02d02040769">
 
-
-
 3. **Health Bot:**
+<img width="153" alt="Screenshot 2023-12-13 115244" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/95b2e35f-cf50-4d15-874d-e82ec060d4e2">
 
 4. **Services:**
 <img width="953" alt="Screenshot 2023-11-18 225100" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/def11fa7-6622-4ee9-b7d2-3e8124e76a9b">
@@ -45,8 +45,9 @@ Use Case: You can integrate the HealthBot into your project to handle health-rel
 5. **Blog:**
 <img width="954" alt="Screenshot 2023-11-18 232058" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/89eb8224-8398-41ed-bd48-40074b98721a">
 
-6. **Prices<img width="953" alt="Screenshot 2023-11-18 225100" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/ac5665b8-6886-4f26-8c93-7bd2278751c9">
-:**
+6. **Prices:**
+<img width="953" alt="Screenshot 2023-11-18 225100" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/ac5665b8-6886-4f26-8c93-7bd2278751c9">
+
 
 7. **Team:**
 <img width="953" alt="Screenshot 2023-11-18 232024" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/825bffa2-38e8-4d98-9627-ace19a89f188">
