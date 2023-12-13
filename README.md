@@ -37,7 +37,8 @@ Use Case: You can integrate the HealthBot into your project to handle health-rel
 <img width="955" alt="Screenshot 2023-11-18 224343" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/985aa0bc-73b4-43be-95f5-e02d02040769">
 
 3. **Health Bot:**
-<img width="153" alt="Screenshot 2023-12-13 115244" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/95b2e35f-cf50-4d15-874d-e82ec060d4e2">
+<img width="650" alt="Screenshot 2023-12-13 120433" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/7e2e8302-b5db-40ab-b148-7ef52e6a9478">
+
 
 4. **Services:**
 <img width="953" alt="Screenshot 2023-11-18 225100" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/def11fa7-6622-4ee9-b7d2-3e8124e76a9b">
