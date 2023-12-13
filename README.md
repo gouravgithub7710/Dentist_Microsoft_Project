@@ -8,15 +8,7 @@
 
 Dentacarehub Website is designed to offer a user-friendly experience in exploring various aspects of dental care. Whether you're looking for information about our team, services, or seeking advice from our health bot, Dentacarehub has you covered.
 
-## Key Sections
 
-1. **Home:**
-2. **About:**
-3. **Health Bot:**
-4. **Services:**
-5. **Blog:**
-6. **Prices:**
-7. **Team:**
 # Azure Technology used:-
 ## 1: Azure Static Web Apps:
 
@@ -36,7 +28,28 @@ Purpose: A health-focused bot that uses artificial intelligence to provide healt
 Use Case: You can integrate the HealthBot into your project to handle health-related queries or provide personalized health information. For example, the bot could assist users with health-related questions, provide medication reminders, or offer general health advice.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![screencapture-calm-stone-01b745500-4-azurestaticapps-net-2023-11-18-22_49_39](https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/2a38fcec-7b53-4357-8caa-c6330dc30e69)
+## Key Sections
+
+1. **Home:<img width="952" alt="Screenshot 2023-11-18 224311" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/d4eab004-3f54-4e47-8727-432be651f765">
+**
+2. **About:**
+<img width="955" alt="Screenshot 2023-11-18 224343" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/985aa0bc-73b4-43be-95f5-e02d02040769">
+
+
+
+3. **Health Bot:**
+
+4. **Services:**
+<img width="953" alt="Screenshot 2023-11-18 225100" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/def11fa7-6622-4ee9-b7d2-3e8124e76a9b">
+
+5. **Blog:**
+<img width="954" alt="Screenshot 2023-11-18 232058" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/89eb8224-8398-41ed-bd48-40074b98721a">
+
+6. **Prices<img width="953" alt="Screenshot 2023-11-18 225100" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/ac5665b8-6886-4f26-8c93-7bd2278751c9">
+:**
+
+7. **Team:**
+<img width="953" alt="Screenshot 2023-11-18 232024" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/825bffa2-38e8-4d98-9627-ace19a89f188">
 
 - Developed a website (HTML, CSS, JavaScript) with an integrated AI Health Bot for
 enhanced user interaction, deployed on Azure for optimal performance.
