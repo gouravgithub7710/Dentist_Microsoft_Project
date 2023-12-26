@@ -27,6 +27,25 @@ Purpose: A health-focused bot that uses artificial intelligence to provide healt
 
 Use Case: You can integrate the HealthBot into your project to handle health-related queries or provide personalized health information. For example, the bot could assist users with health-related questions, provide medication reminders, or offer general health advice.
 
+## Screenshots of Azure services:-
+## 1 Azure Resources - Homepage
+<img width="960" alt="Screenshot 2023-12-26 233802" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/cd727110-9730-4b35-9284-1ae9aa73c067">
+
+## Azure Static Web App
+<img width="960" alt="Screenshot 2023-12-26 233904" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/340ecb71-03b3-443e-b52f-4048134f7b4b">
+
+## Azure Health Bot
+<img width="960" alt="Screenshot 2023-12-26 233957" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/1f05b337-f010-4d40-9faa-3db83b1b9302">
+
+## Azure Health Bot Report
+<img width="613" alt="Screenshot 2023-12-26 234710" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/fe3c33f5-46b4-44e1-8626-bbca2aece83a">
+
+## Azure Storage Accounts
+<img width="960" alt="Screenshot 2023-12-26 234151" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/587703fe-f5fb-4f1b-a47c-8dd6bbd73507">
+
+## Azure Storage Container
+<img width="960" alt="Screenshot 2023-12-26 234548" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/122510aa-a6a6-4104-bd5e-15bc1e90ce3f">
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Key Sections
 
