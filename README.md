@@ -9,7 +9,7 @@
 Dentacarehub Website is designed to offer a user-friendly experience in exploring various aspects of dental care. Whether you're looking for information about our team, services, or seeking advice from our health bot, Dentacarehub has you covered.
 
 
-# Azure Technology used:---------------------------------------------------------
+# Azure Technology used:---------------------------------------------
 ## 1: Azure Static Web Apps:
 
 Purpose: Hosts static web content, such as HTML, CSS, and JavaScript.
@@ -47,7 +47,7 @@ Use Case: You can integrate the HealthBot into your project to handle health-rel
 <img width="960" alt="Screenshot 2023-12-26 234548" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/122510aa-a6a6-4104-bd5e-15bc1e90ce3f">
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Key Sections---------------------------------------------
+## Key Sections-------------------------------------------------
 
 1. **Home:**
 <img width="952" alt="Screenshot 2023-11-18 224311" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/d4eab004-3f54-4e47-8727-432be651f765">
